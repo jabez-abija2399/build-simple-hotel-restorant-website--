@@ -1,0 +1,13 @@
+[
+  {
+    "id": "res1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "date": "2024-07-20",
+    "time": "19:00",
+    "guests": 4,
+    "notes": "Table near window, if possible.",
+    "createdAt": "2024-07-15T10:30:00Z"
+  }
+]
